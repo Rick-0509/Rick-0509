@@ -8,13 +8,13 @@
 
 <br><br>
 
-- :school: I am a at [Faculty economic sciences](https://fce.unac.edu.pe/) at [National University of Callao](https://unac.edu.pe/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a Data Analyst `Python`, `Sql Server`, `Stata`, `IBM SPSS`, `Power By`.
-- :student: I’m currently learning `Machine Learning` and `Data Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rAEEUAeQZ12g66_0CWTyQhvoE0tmD7jq/view?usp=drive_link).
-- :boom: You can visit [MY WEBSITE] (It is still in process).
+- :school: I am a at [Faculty economic sciences](https://fce.unac.edu.pe/) at [National University of Callao](https://unac.edu.pe/)
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a Data Analyst `Python`, `Sql Server`, `Stata`, `IBM SPSS`, `Power By`,`Bizagi`
+- :student: I’m currently learning `Machine Learning` and `Data Engineering`
+- :nerd_face: Always `learning new things`
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rAEEUAeQZ12g66_0CWTyQhvoE0tmD7jq/view?usp=drive_link)
+- :boom: You can visit [MY WEBSITE] (It is still in process)
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
