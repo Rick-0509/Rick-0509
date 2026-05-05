@@ -56,7 +56,7 @@
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
