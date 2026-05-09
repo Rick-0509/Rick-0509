@@ -14,7 +14,7 @@
 - :student: I’m currently learning `Machine Learning` and `Data Engineering`
 - :nerd_face: Always `learning new things`
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1rAEEUAeQZ12g66_0CWTyQhvoE0tmD7jq/view?usp=drive_link)
-- :boom: You can visit [MY WEBSITE] (It is still in process)
+- :boom: You can visit [MY WEBSITE] (https://ricardovalverde.vercel.app/)
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
