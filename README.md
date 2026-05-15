@@ -13,7 +13,7 @@
 - :computer: I am a Data Analyst `Python`, `Sql Server`, `Stata`, `IBM SPSS`, `Power By`,`Bizagi`
 - :student: I’m currently learning `Machine Learning` and `Data Engineering`
 - :nerd_face: Always `learning new things`
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Gf4ioZZ5YmyUJRZRp_JTk3e42fhVD2iY/view?usp=drive_link)
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1YgTdKFos1ZB0JthjpgS0WaqmP0U47sLa?usp=drive_link)
 - :boom: You can visit My Website https://ricardovalverde.vercel.app/
 <br>
 
